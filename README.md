@@ -1,8 +1,3 @@
-Here’s a responsive and clear **README.md** file for your password generator project, ready to upload to GitHub:
-
----
-
-````markdown
 # 🔐 Password Generator
 
 A simple Python-based password generator that creates secure, random passwords containing uppercase and lowercase letters, digits, and symbols.
